@@ -35,19 +35,7 @@ Soy **Juan Gramajo**, Técnico en Programación con más de 5 años de experienc
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
----
 
-### 📊 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juangramajo-dev&show_icons=true&theme=dark&locale=es" alt="Estadísticas de Juan" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangramajo-dev&layout=compact&theme=dark&locale=es" alt="Lenguajes más usados" />
-</p>
-
----
 
 ### 📫 Contacto
 
